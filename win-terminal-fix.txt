@@ -1,0 +1,10 @@
+Add it in the terminal settings.json:
+
+{
+  "keys": "ctrl+space",
+    "command": {
+      "action": "sendInput",
+      "input": "\u001b[32;5u"
+    }
+}
+       
